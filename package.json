@@ -1,0 +1,28 @@
+{
+  "name": "worthy-burger",
+  "version": "1.0.0",
+  "description": "Worthy Burger App",
+  "main": "server.js",
+  "scripts": {
+    "test": "test burger"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theworthyg/Worthy-Burger.git"
+  },
+  "keywords": [
+    "da",
+    "burga"
+  ],
+  "author": "wg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theworthyg/Worthy-Burger/issues"
+  },
+  "homepage": "https://github.com/theworthyg/Worthy-Burger#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "mysql": "^2.16.0"
+  }
+}

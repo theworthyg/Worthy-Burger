@@ -1,0 +1,29 @@
+body {
+    background-color: #ffbb00;
+  }
+  
+  .jumbotron h1{
+      color: #fc0000;
+      font-family: 'Dokdo', cursive;
+
+  
+  }
+  
+  .jumbotron{
+      padding-top: 1%;
+      background-color:transparent !important;
+      font-family: 'Josefin Sans', sans-serif;
+
+  }
+  
+  img {
+  margin-top: 5%;
+    width: 15%;
+  margin-bottom: 0%;
+  }
+  
+  .submitFont{
+      color: green;
+      font-family: 'Dokdo', cursive;
+      font-size: 30px;
+  }
